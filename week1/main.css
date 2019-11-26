@@ -1,0 +1,26 @@
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #4da6ff;
+  color: white;
+  font-size: 30px;
+}
+.datatitle {
+  padding:20px 0px 0px 20px;
+  font-size:30px;
+}
+.datatitle2 {
+  padding:20px 0px 0px 40px;
+  font-size:25px;
+  
+}
+.data {
+  padding:0px 0px 0px 80px;
+  font-size:20px;
+  margin:0px;
+}
+.data2 {
+  padding:0px 0px 0px 80px;
+  font-size:20px;
+  margin:0px;
+}
